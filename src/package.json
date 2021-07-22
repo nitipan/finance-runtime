@@ -58,7 +58,7 @@
     "underscore": "^1.9.1",
     "web-animations-js": "^2.3.1",
     "webpack-bundle-analyzer": "^3.0.3",
-    "xlsx": "^0.16.9",
+    "xlsx": "^0.17.0",
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
