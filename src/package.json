@@ -44,7 +44,7 @@
     "moment": "^2.24.0",
     "ngx-json-viewer": "^2.4.0",
     "ngx-mask": "^8.1.7",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "pdfmake": "^0.1.62",
     "popper.js": "^1.14.7",
     "randexp": "^0.5.3",
